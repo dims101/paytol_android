@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">payTol</string>
+    <string name="backToLogin"><i><u>Kembali ke halaman login</u></i></string>
+    <string name="passwordNotMatch"><i>Password tidak cocok</i></string>
+</resources>
